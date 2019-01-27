@@ -3,8 +3,14 @@ Ruta 23 is based on a typeface used on *colectivo* buses in Mexico City. A varie
 
 This sample is from Route 23, making stops along Parque México.
 
+<div style="width: 50%;float:left;">
 ![](research/ruta23-01.jpeg)
+</div>
+<div style="width: 50%;float:left;">
 ![](research/ruta23-02.jpeg)
+</div>
+
+
 
 ## Design
 The design is based fairly strictly on the original sample. Some minor modifications to the original design were made where they aid consistency in proportions, curves, or spacing.
@@ -12,7 +18,8 @@ The design is based fairly strictly on the original sample. Some minor modificat
 ## Working with the Glyphs file
 The first release of Ruta 23 only includes the glyphs contained in the two original research images above.
 
-It has been designed as an uppercase-only, nearly monospaced (the 1 is proportional) typeface.
+It has been designed as an uppercase-only, nearly monospaced (the `1` is proportional) typeface.
+
 
 ![](reference/ref-01.png)
 
