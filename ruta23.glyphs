@@ -1,7 +1,8 @@
 {
 .appVersion = "1192";
 DisplayStrings = (
-"\012RUT/_interior A\012123023\0120319"
+"\012RUTA\0120230019\012",
+"\012/_counter2/_interior/_counter1/_bodyCorners/_body \012"
 );
 copyright = "Copyright © 2019 by Jacob Heftmann. All rights reserved.";
 date = "2019-01-10 17:39:46 +0000";
