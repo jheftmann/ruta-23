@@ -3,12 +3,9 @@ Ruta 23 is based on a typeface used on *colectivo* buses in Mexico City. A varie
 
 This sample is from Route 23, making stops along Parque México.
 
-<div style="width: 50%;float:left;">
-<img src="research/ruta23-01.jpeg"/>
-</div>
-<div style="width: 50%;float:left;">
-<img src="research/ruta23-02.jpeg"/>
-</div>
+<img src="research/ruta23-01.jpeg" style="width: 50%; float:left;"/>
+![](research/ruta23-01.jpeg)
+![](research/ruta23-02.jpeg)
 
 ## Design
 The design is based fairly strictly on the original sample. Some minor modifications to the original design were made where they aid consistency in proportions, curves, or spacing.
