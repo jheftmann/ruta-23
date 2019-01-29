@@ -24,7 +24,7 @@ There are several components available for use, as well.
 
 ![](reference/ref-02.png)
 
-Every side-bearing is set to `30 units` and is based on the `U`.
+Every side-bearing is set to `30 units` and is based on the `U` (at least until there are more glyphs).
 
 ![](reference/ref-03.png)
 
