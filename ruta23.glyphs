@@ -2,7 +2,7 @@
 .appVersion = "1192";
 DisplayStrings = (
 "\012RUTA\0120230019\012",
-"\012/_counter2/_interior/_counter1/_bodyCorners/_body \012"
+"TORTAS\012U0392"
 );
 copyright = "Copyright © 2019 by Jacob Heftmann. All rights reserved.";
 date = "2019-01-10 17:39:46 +0000";
@@ -189,12 +189,25 @@ unicode = 004E;
 },
 {
 glyphname = O;
+lastChange = "2019-02-11 02:49:05 +0000";
 layers = (
 {
-layerId = "C71F3EBF-AA39-4D70-AEFE-33BA5654F61B";
-width = 600;
+components = (
+{
+alignment = -1;
+name = _counter2;
+transform = "{1, 0, 0, 1.41474, 80, -96}";
+},
+{
+name = _body;
 }
 );
+layerId = "C71F3EBF-AA39-4D70-AEFE-33BA5654F61B";
+width = 760;
+}
+);
+leftMetricsKey = "=U";
+rightMetricsKey = "=|";
 unicode = 004F;
 },
 {
@@ -273,12 +286,81 @@ unicode = 0052;
 },
 {
 glyphname = S;
+lastChange = "2019-02-11 02:54:02 +0000";
 layers = (
 {
-layerId = "C71F3EBF-AA39-4D70-AEFE-33BA5654F61B";
-width = 600;
+background = {
+components = (
+{
+name = _body;
 }
 );
+paths = (
+{
+closed = 1;
+nodes = (
+"30 113 LINE",
+"565 114 LINE",
+"617 116 OFFCURVE",
+"637 138 OFFCURVE",
+"645 151 CURVE",
+"30 316 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"730 463 LINE",
+"245 462 LINE",
+"193 460 OFFCURVE",
+"153 418 OFFCURVE",
+"145 405 CURVE",
+"730 260 LINE"
+);
+}
+);
+};
+components = (
+{
+name = _body;
+}
+);
+layerId = "C71F3EBF-AA39-4D70-AEFE-33BA5654F61B";
+paths = (
+{
+closed = 1;
+nodes = (
+"430 114 LINE",
+"551 114 OFFCURVE",
+"649 139 OFFCURVE",
+"649 171 CURVE SMOOTH",
+"649 202 OFFCURVE",
+"551 227 OFFCURVE",
+"430 227 CURVE",
+"30 227 LINE",
+"30 114 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"730 377 LINE",
+"330 377 LINE",
+"209 377 OFFCURVE",
+"111 352 OFFCURVE",
+"111 321 CURVE SMOOTH",
+"111 289 OFFCURVE",
+"209 264 OFFCURVE",
+"330 264 CURVE",
+"730 264 LINE"
+);
+}
+);
+width = 760;
+}
+);
+leftMetricsKey = "=U";
+rightMetricsKey = "=|";
 unicode = 0053;
 },
 {
